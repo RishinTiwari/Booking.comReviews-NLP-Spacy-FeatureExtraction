@@ -1,7 +1,3 @@
-Here's a markdown version of your project documentation with a placeholder for the dataset link:
-
----
-
 # Booking.com Hotel Reviews Analysis
 
 This project analyzes over 515,000 guest reviews and ratings of almost 1500 hotels across Europe, scraped from Booking.com. The goal is to understand customer sentiment and key hotel features through various data analysis and visualization techniques.
